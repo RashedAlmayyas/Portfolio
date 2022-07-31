@@ -7,11 +7,11 @@ This site is programmed using programming languages html css bootstrap
 ********************************************************************************
 
 
-![1](https://user-images.githubusercontent.com/108932239/182005042-bd22f0f7-4436-4e3c-8d57-7d9904310747.png)
+![1](https://user-images.githubusercontent.com/108932239/182005270-366be496-5bcf-4f12-8838-a6787aef421c.png)
 
-![2](https://user-images.githubusercontent.com/108932239/182005043-0ab2c7ae-2c48-4f1a-81bf-ddec42214997.png)
+![2](https://user-images.githubusercontent.com/108932239/182005276-c6e02532-2590-4fd2-bb59-d02a27208433.png)
 
-![3](https://user-images.githubusercontent.com/108932239/182005044-e866a942-19c6-417c-8d2b-e903e166ad0b.png)
+![3](https://user-images.githubusercontent.com/108932239/182005278-761c7cbe-f3ab-4336-8bd7-f1f6b1a1c667.png)
 
 
 ### screenshot for mockup
